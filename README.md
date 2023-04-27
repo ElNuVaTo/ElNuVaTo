@@ -1,49 +1,9 @@
-<div align="center">
-  <img height="150" src="https://i0.wp.com/katzenworld.co.uk/wp-content/uploads/2014/09/img_7562.jpg?w=1020&ssl=1"  />
-</div>
+# 💫 About Me:
+Soy una persona tranquila y apasionado por la innovación en el diseño. Mi verdadera pasión es la programación, y a menudo me encontrarás trabajando en proyectos hasta altas horas de la noche sin preocuparme por dormir. Me encanta explorar nuevas tecnologías y siempre estoy en busca de formas innovadoras de abordar los desafíos.
 
-###
 
-<br clear="both">
-
-<h3 align="center">💫  Sobre Mi</h3>
-
-###
-
-<br clear="both">
-
-<p align="left">Soy una persona tranquila y apasionado por la innovación en el diseño. Mi verdadera pasión es la programación, y a menudo me encontrarás trabajando en proyectos hasta altas horas de la noche sin preocuparme por dormir. Me encanta explorar nuevas tecnologías y siempre estoy en busca de formas innovadoras de abordar los desafíos.</p>
-
-###
-
-<br clear="both">
-
-<h3 align="center">💻 Stack 💻</h3>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" width="50" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" width="50" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" width="50" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" width="50" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35" width="50" alt="nextjs logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<h3 align="center">Estadisticas</h3>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ElNuVaTo&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=ElNuVaTo&theme=react&hide_border=false)<br/>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
